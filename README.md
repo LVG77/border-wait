@@ -1,4 +1,4 @@
-# Quebec US Border Waite Time
+# Quebec US Border Wait Time
 Scrape QC/US border-crossing wait times information from https://www.quebec511.info
 
 An implementation of the Git scraping pattern as presented by [Simon Willison](https://github.com/simonw)
