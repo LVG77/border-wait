@@ -50,8 +50,8 @@
         "id": "25",
         "info": "Stanstead / Derby Line",
         "Travellers to CAN": ">No delay",
-        "Travellers to US": ">5 minutes",
+        "Travellers to US": ">No Delay",
         "Waittime to CAN": 0,
-        "Waittime to US": 5
+        "Waittime to US": 0
     }
 ]
