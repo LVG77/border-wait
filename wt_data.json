@@ -5,9 +5,9 @@
         "ico": "b_PosteFrontalier.png",
         "id": "2",
         "info": "Armstrong / Jackman",
-        "Travellers to CAN": ">No delay",
+        "Travellers to CAN": ">5 minutes",
         "Travellers to US": ">Unavailable",
-        "Waittime to CAN": 0,
+        "Waittime to CAN": 5,
         "Waittime to US": 0
     },
     {
@@ -16,9 +16,9 @@
         "ico": "b_PosteFrontalier.png",
         "id": "20",
         "info": "St-Armand/Philipsburg / Highgate Springs",
-        "Travellers to CAN": ">Unavailable",
+        "Travellers to CAN": ">45 minutes",
         "Travellers to US": ">No Delay",
-        "Waittime to CAN": 0,
+        "Waittime to CAN": 45,
         "Waittime to US": 0
     },
     {
@@ -27,9 +27,9 @@
         "ico": "b_PosteFrontalier.png",
         "id": "21",
         "info": "Saint-Bernard-de-Lacolle / Champlain",
-        "Travellers to CAN": ">No delay",
+        "Travellers to CAN": ">60 minutes",
         "Travellers to US": ">5 minutes",
-        "Waittime to CAN": 0,
+        "Waittime to CAN": 60,
         "Waittime to US": 5
     },
     {
@@ -49,9 +49,9 @@
         "ico": "b_PosteFrontalier.png",
         "id": "25",
         "info": "Stanstead / Derby Line",
-        "Travellers to CAN": ">No delay",
+        "Travellers to CAN": ">5 minutes",
         "Travellers to US": ">No Delay",
-        "Waittime to CAN": 0,
+        "Waittime to CAN": 5,
         "Waittime to US": 0
     }
 ]
