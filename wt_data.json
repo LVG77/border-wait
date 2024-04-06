@@ -16,10 +16,10 @@
         "ico": "b_PosteFrontalier.png",
         "id": "20",
         "info": "St-Armand/Philipsburg / Highgate Springs",
-        "Travellers to CAN": ">No delay",
-        "Travellers to US": ">20 minutes",
-        "Waittime to CAN": 0,
-        "Waittime to US": 20
+        "Travellers to CAN": ">10 minutes",
+        "Travellers to US": ">No Delay",
+        "Waittime to CAN": 10,
+        "Waittime to US": 0
     },
     {
         "lng": -73.45264,
@@ -28,9 +28,9 @@
         "id": "21",
         "info": "Saint-Bernard-de-Lacolle / Champlain",
         "Travellers to CAN": ">No delay",
-        "Travellers to US": ">No Delay",
+        "Travellers to US": ">25 minutes",
         "Waittime to CAN": 0,
-        "Waittime to US": 0
+        "Waittime to US": 25
     },
     {
         "lng": -71.79345,
