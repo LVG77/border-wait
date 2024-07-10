@@ -5,7 +5,7 @@
         "ico": "b_PosteFrontalier.png",
         "id": "2",
         "info": "Armstrong / Jackman",
-        "Travellers to CAN": ">No delay",
+        "Travellers to CAN": ">Unavailable",
         "Travellers to US": ">Unavailable",
         "Waittime to CAN": 0,
         "Waittime to US": 0
@@ -16,10 +16,10 @@
         "ico": "b_PosteFrontalier.png",
         "id": "20",
         "info": "St-Armand/Philipsburg / Highgate Springs",
-        "Travellers to CAN": ">No delay",
-        "Travellers to US": ">15 minutes",
+        "Travellers to CAN": ">Unavailable",
+        "Travellers to US": ">No Delay",
         "Waittime to CAN": 0,
-        "Waittime to US": 15
+        "Waittime to US": 0
     },
     {
         "lng": -73.45264,
@@ -27,7 +27,7 @@
         "ico": "b_PosteFrontalier.png",
         "id": "21",
         "info": "Saint-Bernard-de-Lacolle / Champlain",
-        "Travellers to CAN": ">No delay",
+        "Travellers to CAN": ">Unavailable",
         "Travellers to US": ">No Delay",
         "Waittime to CAN": 0,
         "Waittime to US": 0
