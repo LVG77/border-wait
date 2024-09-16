@@ -28,9 +28,9 @@
         "id": "21",
         "info": "Saint-Bernard-de-Lacolle / Champlain",
         "Travellers to CAN": ">15 minutes",
-        "Travellers to US": ">No Delay",
+        "Travellers to US": ">25 minutes",
         "Waittime to CAN": 15,
-        "Waittime to US": 0
+        "Waittime to US": 25
     },
     {
         "lng": -71.79345,
