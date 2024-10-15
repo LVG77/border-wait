@@ -16,10 +16,10 @@
         "ico": "b_PosteFrontalier.png",
         "id": "20",
         "info": "St-Armand/Philipsburg / Highgate Springs",
-        "Travellers to CAN": ">25 minutes",
-        "Travellers to US": ">50 minutes",
-        "Waittime to CAN": 25,
-        "Waittime to US": 50
+        "Travellers to CAN": ">15 minutes",
+        "Travellers to US": ">Holiday Traffic",
+        "Waittime to CAN": 15,
+        "Waittime to US": 0
     },
     {
         "lng": -73.45264,
@@ -50,8 +50,8 @@
         "id": "25",
         "info": "Stanstead / Derby Line",
         "Travellers to CAN": ">10 minutes",
-        "Travellers to US": ">15 minutes",
+        "Travellers to US": ">5 minutes",
         "Waittime to CAN": 10,
-        "Waittime to US": 15
+        "Waittime to US": 5
     }
 ]
