@@ -27,10 +27,10 @@
         "ico": "b_PosteFrontalier.png",
         "id": "21",
         "info": "Saint-Bernard-de-Lacolle / Champlain",
-        "Travellers to CAN": ">5 minutes",
-        "Travellers to US": ">5 minutes",
-        "Waittime to CAN": 5,
-        "Waittime to US": 5
+        "Travellers to CAN": ">No delay",
+        "Travellers to US": ">15 minutes",
+        "Waittime to CAN": 0,
+        "Waittime to US": 15
     },
     {
         "lng": -71.79345,
