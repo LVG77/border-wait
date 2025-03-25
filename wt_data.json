@@ -17,7 +17,7 @@
         "id": "20",
         "info": "St-Armand/Philipsburg / Highgate Springs",
         "Travellers to CAN": ">No delay",
-        "Travellers to US": ">No Delay",
+        "Travellers to US": ">Unavailable",
         "Waittime to CAN": 0,
         "Waittime to US": 0
     },
@@ -28,7 +28,7 @@
         "id": "21",
         "info": "Saint-Bernard-de-Lacolle / Champlain",
         "Travellers to CAN": ">No delay",
-        "Travellers to US": ">No Delay",
+        "Travellers to US": ">Unavailable",
         "Waittime to CAN": 0,
         "Waittime to US": 0
     },
@@ -50,7 +50,7 @@
         "id": "25",
         "info": "Stanstead / Derby Line",
         "Travellers to CAN": ">5 minutes",
-        "Travellers to US": ">No Delay",
+        "Travellers to US": ">Unavailable",
         "Waittime to CAN": 5,
         "Waittime to US": 0
     }
