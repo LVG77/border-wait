@@ -5,7 +5,7 @@
         "ico": "b_PosteFrontalier.png",
         "id": "2",
         "info": "Armstrong / Jackman",
-        "Travellers to CAN": ">Unavailable",
+        "Travellers to CAN": ">No delay",
         "Travellers to US": ">Unavailable",
         "Waittime to CAN": 0,
         "Waittime to US": 0
@@ -16,7 +16,7 @@
         "ico": "b_PosteFrontalier.png",
         "id": "20",
         "info": "St-Armand/Philipsburg / Highgate Springs",
-        "Travellers to CAN": ">Unavailable",
+        "Travellers to CAN": ">No delay",
         "Travellers to US": ">50 minutes",
         "Waittime to CAN": 0,
         "Waittime to US": 50
