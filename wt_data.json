@@ -49,9 +49,9 @@
         "ico": "b_PosteFrontalier.png",
         "id": "25",
         "info": "Stanstead / Derby Line",
-        "Travellers to CAN": ">5 minutes",
+        "Travellers to CAN": ">15 minutes",
         "Travellers to US": ">No Delay",
-        "Waittime to CAN": 5,
+        "Waittime to CAN": 15,
         "Waittime to US": 0
     }
 ]
