@@ -5,7 +5,7 @@
         "ico": "b_PosteFrontalier.png",
         "id": "2",
         "info": "Armstrong / Jackman",
-        "Travellers to CAN": ">Unavailable",
+        "Travellers to CAN": ">No delay",
         "Travellers to US": ">Unavailable",
         "Waittime to CAN": 0,
         "Waittime to US": 0
@@ -28,9 +28,9 @@
         "id": "21",
         "info": "Saint-Bernard-de-Lacolle / Champlain",
         "Travellers to CAN": ">No delay",
-        "Travellers to US": ">55 minutes",
+        "Travellers to US": ">No Delay",
         "Waittime to CAN": 0,
-        "Waittime to US": 55
+        "Waittime to US": 0
     },
     {
         "lng": -71.79345,
